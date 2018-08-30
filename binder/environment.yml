@@ -7,5 +7,4 @@ dependencies:
   - pandas
   - rasterio
   - pathlib
-  - tkinter
   - matplotlib
