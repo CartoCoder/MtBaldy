@@ -1,0 +1,10 @@
+name: MtBaldy-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - rasterio
+  - pathlib
+  - tkinter
