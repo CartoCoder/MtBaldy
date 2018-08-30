@@ -8,3 +8,4 @@ dependencies:
   - rasterio
   - pathlib
   - tkinter
+  - matplotlib
